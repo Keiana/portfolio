@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>favoriteWebs</title>
+</head>
+
+<body>
+
+<h1 style="text-align:center; font-family:courier;"><i>Favorite Webs</i></h1>
+<br>
+<p>I don't really have any favorite websites but here is a list that I've come up with. It's not many but it's something!</p>
+
+<ul>
+  <a href="https://www.urbanoutfitters.com/"><li>Urban Outfitters</li></a>
+  <a href="https://www.codecademy.com/"><li>Codecademy</li></a>
+  <a href="https://www.google.com/"><li>Google</li></a>
+  <br>
+  
+  </br>
+  <footer>Copyright &c; Keiana.com</footer>
+  
+  </body>
+  
