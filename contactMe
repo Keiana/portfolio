@@ -31,9 +31,10 @@ ul {
 <ul>
 <li><a href="#aboutme">About Me</a></li>
 <li><a href="https://www.keiana.github.io/portfolio/favoriteWebs">Favorite Webs</a></li>
-<li><a href="#contact">Contact</a></li>
-<li><a href="#projects">Projects</a></li>
+<li><a href="https://www.keiana.github.io/portfolio/contactMe">Contact</a></li>
+<li><a href="https://www.keiana.github.io/portfolio/projects">Projects</a></li>
 </ul>
 <br>
 
 <h1 style="text-align:center; font-family:courier;">Contact</h1>
+<hr>
